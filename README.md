@@ -1,6 +1,9 @@
 # Angular-p5.js-Hibernate-Game-Portal
-First Revature group assignment
+
 ![revature logo](https://revature.com/wp-content/uploads/2017/12/revature-logo-600x219.png)
+
+
+First Revature group assignment
 Mini-Game Portal (project WINNING)
 Team: The Boyz
 Project Concept: We intend to utilize Hibernate, Angular, Maven and other learned tools to create a SPA featuring several JavaScript coded mini games. Our site will have a login feature and users will be able to view a leaderboard and their own high score while logging in.  We will present a list of games, at most 2 players, that the user can play. admin users will have full control of the leader boards and can update user’s information/credentials. 
