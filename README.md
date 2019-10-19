@@ -16,7 +16,7 @@ Members:
 
 Initial Burndown chart:
 
-![burndown-chart](https://ibb.co/2PqcFDb)
+![burndown-chart](https://i.ibb.co/7VvrSw9/Untitled.png)
 
 Front End via Angular 8 Set-Up:
 Git clone or download to a new folder.
