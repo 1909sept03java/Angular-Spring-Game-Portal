@@ -13,6 +13,11 @@ Members:
 -        Ill
 -        Dj
 -        George
+
+Initial Burndown chart:
+
+![burndown-chart](https://ibb.co/2PqcFDb)
+
 Front End via Angular 8 Set-Up:
 Git clone or download to a new folder.
 Use git bash or other cli tool, and cd into Angular-p5.js-Hibernate-Game-Portal/frontend.
