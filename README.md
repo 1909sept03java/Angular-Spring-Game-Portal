@@ -13,8 +13,8 @@ Project Concept: We intend to utilize Hibernate, Angular, Maven and other learne
 Members
 =======
 -        Khanh Dang
--        Ray
--        Ill
+-        Raymond
+-        Ilya
 -        Dj
 -        George
 
