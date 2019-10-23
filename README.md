@@ -8,7 +8,7 @@ First Revature group assignment
 
 Mini-Game Portal (project WINNING)
 Team: The Boyz
-Project Concept: We intend to utilize Hibernate, Angular, Maven and other learned tools to create a SPA featuring several JavaScript coded mini games. Our site will allow users to login,feature a leaderboard,and allow users to view their own high score while.  We will present a list of games, that the user can play. 
+Project Concept: We intend to utilize Angular, Spring, Maven and other learned tools to create a SPA featuring several JavaScript coded mini games. Our site will allow users to login,feature a leaderboard,and allow users to view their own high score while.  We will present a list of games, that the user can play. 
 
 Members
 =======
